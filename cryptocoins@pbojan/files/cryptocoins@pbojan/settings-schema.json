@@ -118,6 +118,7 @@
     "options": {
       "USD ($)": "usd",
       "EUR (€)": "eur"
+      "AUD ($)": "aud"
     }
   },
 
